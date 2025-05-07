@@ -1,0 +1,8 @@
+D:\Info éretségi\Visual studio\kavefozo\kavefozo\bin\Debug\kavefozo.exe.config
+D:\Info éretségi\Visual studio\kavefozo\kavefozo\bin\Debug\kavefozo.exe
+D:\Info éretségi\Visual studio\kavefozo\kavefozo\bin\Debug\kavefozo.pdb
+D:\Info éretségi\Visual studio\kavefozo\kavefozo\obj\Debug\kavefozo.csproj.AssemblyReference.cache
+D:\Info éretségi\Visual studio\kavefozo\kavefozo\obj\Debug\kavefozo.csproj.SuggestedBindingRedirects.cache
+D:\Info éretségi\Visual studio\kavefozo\kavefozo\obj\Debug\kavefozo.csproj.CoreCompileInputs.cache
+D:\Info éretségi\Visual studio\kavefozo\kavefozo\obj\Debug\kavefozo.exe
+D:\Info éretségi\Visual studio\kavefozo\kavefozo\obj\Debug\kavefozo.pdb
